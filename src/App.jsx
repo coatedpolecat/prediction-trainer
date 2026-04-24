@@ -146,7 +146,7 @@ export default function App() {
     <main className="app">
       <section className="card hero">
         <h1>Decision Lab</h1>
-        <p>Map the gap between felt knowing, guessing, and actual results.</p>
+        <p>Map the gap between knowing, guessing, and actual results.</p>
 
         <input
           className="nameInput"
